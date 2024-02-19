@@ -25,3 +25,16 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+### Application Structure
+
+In this application I have completed flow of Zoom Car which is Car Booking application with Real API integration.
+
+Major Modules Covered as below
+
+1) Car Owner Registration and Customer Registration
+2) Login For Both Roles.
+3) Create Cars in Car Owner Login.
+4) Show Available cars from Location.
+5) Filtering Cars.
+6) Car Booking.
